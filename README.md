@@ -1,1 +1,1 @@
-# gaifan_vote_dist
+# 已废弃
